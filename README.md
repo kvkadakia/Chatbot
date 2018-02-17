@@ -12,5 +12,6 @@ Steps to run:
    'lights on'
 6. Chatbot is up and running!
 7. If you want to create your own chatbot please refer https://console.bluemix.net/docs/services/conversation/develop-app.html#building-a-client-application
+8. I deployed the chatbot on slack as well
 
 
